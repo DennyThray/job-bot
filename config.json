@@ -1,0 +1,11 @@
+{
+  "keywords": ["C#", "React", "Angular", "senior level", "staff", "principal", "remote", "engineer", "developer"],
+  "max_results": 50,
+  "resume_path": "resume.pdf",
+  "user_data": {
+    "full_name": "Dennis Dombkowski",
+    "email": "denny.thray@gmail.com",
+    "phone": "5058180005",
+    "linkedin": "https://www.linkedin.com/in/denny-dombkowski-a2a34918/"
+  }
+}
