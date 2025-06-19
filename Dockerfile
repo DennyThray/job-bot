@@ -27,8 +27,9 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Add your bot code
-COPY . /app
-WORKDIR /app
+COPY . .
+WORKDIR .
 
 # Run the bot
 CMD ["python3", "main.py"]
+
